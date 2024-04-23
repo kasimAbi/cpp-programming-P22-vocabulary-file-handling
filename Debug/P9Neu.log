@@ -1,0 +1,9 @@
+﻿  VokabelTrainer.cpp
+  Schnittstelle.cpp
+  P9.cpp
+c:\users\kamer001\desktop\uni\programmieren\programmieren_2\p9\p9.cpp(17): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  funktionen.cpp
+  Code wird generiert...
+FehlerAbfangen.lib(fehler_abfangen.obj) : warning LNK4099: PDB "FehlerAbfangen.pdb" wurde nicht mit "FehlerAbfangen.lib(fehler_abfangen.obj)" oder an "C:\Users\kamer001\Desktop\Uni\Programmieren\Programmieren_2\P9\Debug\FehlerAbfangen.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  P9Neu.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Programmieren_2\P9\Debug\P9Neu.exe
+  P9Neu.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Programmieren_2\P9\Debug\P9Neu.pdb (Partial PDB)
